@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/naidn-c/static/css/main.bf538fe7.css",
-    "main.js": "/naidn-c/static/js/main.3650acd3.js",
-    "static/media/HeroImage.jpg": "/naidn-c/static/media/HeroImage.bc3508d5f5c3d7cbeeef.jpg",
-    "static/media/schoolimage.jpeg": "/naidn-c/static/media/schoolimage.42cf57de1137a5d176d7.jpeg",
-    "index.html": "/naidn-c/index.html",
-    "main.bf538fe7.css.map": "/naidn-c/static/css/main.bf538fe7.css.map",
-    "main.3650acd3.js.map": "/naidn-c/static/js/main.3650acd3.js.map"
+    "main.css": "/ROHITH-Bsuresh/static/css/main.bf538fe7.css",
+    "main.js": "/ROHITH-Bsuresh/static/js/main.3650acd3.js",
+    "static/media/HeroImage.jpg": "/ROHITH-Bsuresh/static/media/HeroImage.bc3508d5f5c3d7cbeeef.jpg",
+    "static/media/schoolimage.jpeg": "/ROHITH-Bsuresh/static/media/schoolimage.42cf57de1137a5d176d7.jpeg",
+    "index.html": "/ROHITH-Bsuresh/index.html",
+    "main.bf538fe7.css.map": "/ROHITH-Bsuresh/static/css/main.bf538fe7.css.map",
+    "main.3650acd3.js.map": "/ROHITH-Bsuresh/static/js/main.3650acd3.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
