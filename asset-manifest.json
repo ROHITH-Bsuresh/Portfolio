@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ROHITH-Bsuresh/static/css/main.bf538fe7.css",
+    "main.js": "/ROHITH-Bsuresh/static/js/main.5ec68145.js",
+    "static/media/travel.png": "/ROHITH-Bsuresh/static/media/travel.e1846dbb4bbde23e4fa0.png",
+    "static/media/rectcal.png": "/ROHITH-Bsuresh/static/media/rectcal.0613dedfef53231e5879.png",
+    "static/media/loom.png": "/ROHITH-Bsuresh/static/media/loom.a8f60b8020520d1a7138.png",
+    "static/media/HeroImage.jpg": "/ROHITH-Bsuresh/static/media/HeroImage.8217857315e706462bc0.jpg",
+    "static/media/echal.png": "/ROHITH-Bsuresh/static/media/echal.3d7f8822331d2ce65c3e.png",
+    "static/media/Age.jpg": "/ROHITH-Bsuresh/static/media/Age.0ee0a6c3e1c74cdaf230.jpg",
+    "index.html": "/ROHITH-Bsuresh/index.html",
+    "main.bf538fe7.css.map": "/ROHITH-Bsuresh/static/css/main.bf538fe7.css.map",
+    "main.5ec68145.js.map": "/ROHITH-Bsuresh/static/js/main.5ec68145.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.5ec68145.js"
+  ]
+}
