@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/ROHITH-Bsuresh/static/css/main.bf538fe7.css",
-    "main.js": "/ROHITH-Bsuresh/static/js/main.3650acd3.js",
-    "static/media/HeroImage.jpg": "/ROHITH-Bsuresh/static/media/HeroImage.bc3508d5f5c3d7cbeeef.jpg",
-    "static/media/schoolimage.jpeg": "/ROHITH-Bsuresh/static/media/schoolimage.42cf57de1137a5d176d7.jpeg",
-    "index.html": "/ROHITH-Bsuresh/index.html",
-    "main.bf538fe7.css.map": "/ROHITH-Bsuresh/static/css/main.bf538fe7.css.map",
-    "main.3650acd3.js.map": "/ROHITH-Bsuresh/static/js/main.3650acd3.js.map"
+    "main.css": "./static/css/main.bf538fe7.css",
+    "main.js": "./static/js/main.0b65aac5.js",
+    "static/media/travel.png": "./static/media/travel.e1846dbb4bbde23e4fa0.png",
+    "static/media/rectcal.png": "./static/media/rectcal.0613dedfef53231e5879.png",
+    "static/media/loom.png": "./static/media/loom.a8f60b8020520d1a7138.png",
+    "static/media/HeroImage.jpg": "./static/media/HeroImage.8217857315e706462bc0.jpg",
+    "static/media/echal.png": "./static/media/echal.3d7f8822331d2ce65c3e.png",
+    "static/media/Age.jpg": "./static/media/Age.0ee0a6c3e1c74cdaf230.jpg",
+    "index.html": "./index.html",
+    "main.bf538fe7.css.map": "./static/css/main.bf538fe7.css.map",
+    "main.0b65aac5.js.map": "./static/js/main.0b65aac5.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.3650acd3.js"
+    "static/js/main.0b65aac5.js"
   ]
 }
